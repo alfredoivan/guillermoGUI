@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 
 import javax.swing.*;
 
-/* FrameDemo.java  requires no other files. */
+/* FrameDemo.java  requires no other files.  */
 public class MainWindow {
     static JFrame frame;
     /**
